@@ -168,7 +168,7 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sujeetgund/legalsahayak.git
+git clone https://github.com/Digvijay1102/legalsahayak.git
 cd legalsahayak
 ```
 
