@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+langchain-groq
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sentence-transformers
